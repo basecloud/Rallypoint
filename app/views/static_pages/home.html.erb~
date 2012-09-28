@@ -1,0 +1,12 @@
+<div class="center hero-unit">
+<h1>Welcome to PDSII Rallypoint</h1>
+
+<h2>
+	This is the home page for PDSII Rallypoint
+	
+</h2>
+
+<%= link_to "Login", '#', class: "btn btn-large btn-primary" %>
+</div>
+
+<%= link_to image_tag("/home/rails/Documents/pdsii_rallypoint/rallypoint/public", alt: "Six3"), 'http://127.0.0.1' %>
